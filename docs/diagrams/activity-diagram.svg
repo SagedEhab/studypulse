@@ -1,104 +1,104 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1690" viewBox="0 0 1080 1690" font-family="'Segoe UI', Arial, sans-serif">
 <defs>
   <marker id="open" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto-start-reverse" markerUnits="userSpaceOnUse">
-    <path d="M1,1 L13,7 L1,13" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M1,1 L13,7 L1,13" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round"/>
   </marker>
 </defs>
 <rect width="1080" height="1690" fill="#FFFFFF"/>
-<circle cx="540" cy="30" r="13" fill="#1E293B"/>
-<rect x="430.0" y="69.0" width="220" height="46" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="540.0" y="98.0" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Open StudyPulse</text>
-<line x1="540.0" y1="43.0" x2="540.0" y2="69.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<line x1="540.0" y1="115.0" x2="540.0" y2="140.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="540,140 560,160 540,180 520,160" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<rect x="375.0" y="205.0" width="330" height="46" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="540.0" y="233.9" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Load saved tasks from the phone</text>
-<line x1="540.0" y1="180.0" x2="540.0" y2="205.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<line x1="540.0" y1="251.0" x2="540.0" y2="283.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="540,283 562,305 540,327 518,305" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<rect x="135.0" y="274.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="250.0" y="300.3" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Show an error and</text><text x="250.0" y="321.6" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">a Try again button</text>
-<line x1="518.0" y1="305.0" x2="365.0" y2="305.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="388.8" y="278.0" width="105.5" height="20" fill="#FFFFFF"/><text x="441.5" y="293.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[load failed]</text>
-<polyline points="250.0,274.0 250.0,160.0 520.0,160.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<rect x="410.0" y="362.0" width="260" height="46" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="540.0" y="390.9" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Show Today dashboard</text>
-<line x1="540.0" y1="327.0" x2="540.0" y2="362.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="552.0" y="334.0" width="68.0" height="20" fill="#FFFFFF"/><text x="586.0" y="349.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[loaded]</text>
-<line x1="540.0" y1="408.0" x2="540.0" y2="440.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="540,440 560,460 540,480 520,460" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<rect x="425.0" y="507.0" width="230" height="46" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="540.0" y="536.0" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Choose what to do</text>
-<line x1="540.0" y1="480.0" x2="540.0" y2="507.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<line x1="540.0" y1="553.0" x2="540.0" y2="586.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="540,586 564,610 540,634 516,610" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<line x1="564.0" y1="610.0" x2="993.0" y2="610.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="814.8" y="583.0" width="90.5" height="20" fill="#FFFFFF"/><text x="860.0" y="598.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[close app]</text>
-<circle cx="1010" cy="610" r="16" fill="#FFFFFF" stroke="#1E293B" stroke-width="2.2"/>
-<circle cx="1010" cy="610" r="9" fill="#1E293B"/>
-<rect x="30.0" y="717.0" width="180" height="46" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="120.0" y="746.0" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Show task list</text>
-<line x1="540.0" y1="634.0" x2="120.0" y2="717.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="166.0" y="679.0" width="98.0" height="20" fill="#FFFFFF"/><text x="215.0" y="694.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[view tasks]</text>
-<rect x="240.0" y="709.0" width="180" height="62" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="330.0" y="735.3" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Mark task</text><text x="330.0" y="756.6" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">done / not done</text>
-<line x1="540.0" y1="634.0" x2="330.0" y2="709.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="349.8" y="675.0" width="90.5" height="20" fill="#FFFFFF"/><text x="395.0" y="690.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[mark done]</text>
-<rect x="445.0" y="717.0" width="190" height="46" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="540.0" y="746.0" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Ask to confirm</text>
-<line x1="540.0" y1="634.0" x2="540.0" y2="717.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="546.0" y="659.0" width="68.0" height="20" fill="#FFFFFF"/><text x="580.0" y="674.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[delete]</text>
-<line x1="540.0" y1="634.0" x2="780.0" y2="685.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="641.0" y="639.0" width="98.0" height="20" fill="#FFFFFF"/><text x="690.0" y="654.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[add / edit]</text>
-<line x1="120.0" y1="763.0" x2="120.0" y2="803.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="120,803 142,825 120,847 98,825" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<rect x="30.0" y="884.0" width="180" height="62" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="120.0" y="910.3" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Apply search</text><text x="120.0" y="931.6" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">and filters</text>
-<line x1="120.0" y1="847.0" x2="120.0" y2="884.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="50.2" y="858.0" width="135.5" height="20" fill="#FFFFFF"/><text x="118.0" y="873.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[search / filter]</text>
-<line x1="120.0" y1="946.0" x2="120.0" y2="982.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="120,982 138,1000 120,1018 102,1000" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<polyline points="142.0,825.0 226.0,825.0 226.0,1000.0 138.0,1000.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<rect x="140.8" y="799.0" width="90.5" height="20" fill="#FFFFFF"/><text x="186.0" y="814.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[no filter]</text>
-<rect x="240.0" y="804.0" width="180" height="62" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="330.0" y="830.3" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Update weekly</text><text x="330.0" y="851.6" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">progress</text>
-<line x1="330.0" y1="771.0" x2="330.0" y2="804.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<line x1="540.0" y1="763.0" x2="540.0" y2="803.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="540,803 562,825 540,847 518,825" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<rect x="445.0" y="884.0" width="190" height="62" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="540.0" y="910.3" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Delete the task</text><text x="540.0" y="931.6" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">and its reminder</text>
-<line x1="540.0" y1="847.0" x2="540.0" y2="884.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="492.8" y="858.0" width="90.5" height="20" fill="#FFFFFF"/><text x="538.0" y="873.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[confirmed]</text>
-<line x1="540.0" y1="946.0" x2="540.0" y2="982.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="540,982 558,1000 540,1018 522,1000" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<polyline points="562.0,825.0 652.0,825.0 652.0,1000.0 558.0,1000.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<rect x="554.8" y="799.0" width="90.5" height="20" fill="#FFFFFF"/><text x="600.0" y="814.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[cancelled]</text>
-<polygon points="780,685 800,705 780,725 760,705" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<rect x="665.0" y="759.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="780.0" y="785.3" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Enter or change</text><text x="780.0" y="806.6" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">the task details</text>
-<line x1="780.0" y1="725.0" x2="780.0" y2="759.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="665.0" y="852.0" width="230" height="46" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="780.0" y="881.0" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Validate the details</text>
-<line x1="780.0" y1="821.0" x2="780.0" y2="852.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<line x1="780.0" y1="898.0" x2="780.0" y2="928.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="780,928 802,950 780,972 758,950" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<rect x="910.0" y="907.0" width="150" height="86" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="985.0" y="934.7" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Show a message</text><text x="985.0" y="956.0" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">under each</text><text x="985.0" y="977.2" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">invalid field</text>
-<line x1="802.0" y1="950.0" x2="910.0" y2="950.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="822.2" y="924.0" width="75.5" height="20" fill="#FFFFFF"/><text x="860.0" y="939.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[invalid]</text>
-<polyline points="985.0,907.0 985.0,705.0 800.0,705.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<rect x="665.0" y="1004.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="780.0" y="1030.3" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Save the task</text><text x="780.0" y="1051.6" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">on the phone</text>
-<line x1="780.0" y1="972.0" x2="780.0" y2="1004.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="787.8" y="979.0" width="60.5" height="20" fill="#FFFFFF"/><text x="818.0" y="994.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[valid]</text>
-<line x1="780.0" y1="1066.0" x2="780.0" y2="1098.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="780,1098 802,1120 780,1142 758,1120" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<rect x="665.0" y="1174.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="780.0" y="1200.3" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Schedule the</text><text x="780.0" y="1221.6" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">reminder notification</text>
-<line x1="780.0" y1="1142.0" x2="780.0" y2="1174.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="710.2" y="1153.0" width="135.5" height="20" fill="#FFFFFF"/><text x="778.0" y="1168.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[reminder chosen]</text>
-<line x1="780.0" y1="1236.0" x2="780.0" y2="1272.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="780,1272 798,1290 780,1308 762,1290" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<polyline points="802.0,1120.0 918.0,1120.0 918.0,1290.0 798.0,1290.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<rect x="815.2" y="1094.0" width="105.5" height="20" fill="#FFFFFF"/><text x="868.0" y="1109.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[no reminder]</text>
-<line x1="780.0" y1="1308.0" x2="780.0" y2="1343.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="780,1343 802,1365 780,1387 758,1365" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<rect x="665.0" y="1419.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#1E293B" stroke-width="2"/><text x="780.0" y="1445.3" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Add the event to</text><text x="780.0" y="1466.6" font-size="17" font-weight="600" text-anchor="middle" fill="#1E293B">Google Calendar</text>
-<line x1="780.0" y1="1387.0" x2="780.0" y2="1419.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<rect x="706.5" y="1398.0" width="143.0" height="20" fill="#FFFFFF"/><text x="778.0" y="1413.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[export requested]</text>
-<line x1="780.0" y1="1481.0" x2="780.0" y2="1517.0" stroke="#1E293B" stroke-width="1.8" marker-end="url(#open)"/>
-<polygon points="780,1517 798,1535 780,1553 762,1535" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<polyline points="802.0,1365.0 918.0,1365.0 918.0,1535.0 798.0,1535.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<rect x="822.8" y="1339.0" width="90.5" height="20" fill="#FFFFFF"/><text x="868.0" y="1354.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#475569" font-style="italic">[no export]</text>
-<polygon points="540,1575 560,1595 540,1615 520,1595" fill="#FFFFFF" stroke="#1E293B" stroke-width="2"/>
-<polyline points="120.0,1018.0 120.0,1555.0 528.0,1587.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<polyline points="330.0,866.0 330.0,1550.0 534.0,1581.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<polyline points="540.0,1018.0 540.0,1575.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<polyline points="780.0,1553.0 780.0,1555.0 552.0,1587.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<polyline points="540.0,1615.0 540.0,1645.0 22.0,1645.0 22.0,460.0 520.0,460.0" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
-<text x="44.0" y="1420.0" font-size="14" font-weight="normal" text-anchor="start" fill="#475569" font-style="italic" transform="rotate(-90 44 1420)">back to the dashboard</text>
+<circle cx="540" cy="30" r="13" fill="#000000"/>
+<rect x="430.0" y="69.0" width="220" height="46" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="540.0" y="98.0" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Open StudyPulse</text>
+<line x1="540.0" y1="43.0" x2="540.0" y2="69.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<line x1="540.0" y1="115.0" x2="540.0" y2="140.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="540,140 560,160 540,180 520,160" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="375.0" y="205.0" width="330" height="46" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="540.0" y="233.9" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Load saved tasks from the phone</text>
+<line x1="540.0" y1="180.0" x2="540.0" y2="205.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<line x1="540.0" y1="251.0" x2="540.0" y2="283.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="540,283 562,305 540,327 518,305" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="135.0" y="274.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="250.0" y="300.3" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Show an error and</text><text x="250.0" y="321.6" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">a Try again button</text>
+<line x1="518.0" y1="305.0" x2="365.0" y2="305.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="388.8" y="278.0" width="105.5" height="20" fill="#FFFFFF"/><text x="441.5" y="293.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[load failed]</text>
+<polyline points="250.0,274.0 250.0,160.0 520.0,160.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<rect x="410.0" y="362.0" width="260" height="46" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="540.0" y="390.9" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Show Today dashboard</text>
+<line x1="540.0" y1="327.0" x2="540.0" y2="362.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="552.0" y="334.0" width="68.0" height="20" fill="#FFFFFF"/><text x="586.0" y="349.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[loaded]</text>
+<line x1="540.0" y1="408.0" x2="540.0" y2="440.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="540,440 560,460 540,480 520,460" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="425.0" y="507.0" width="230" height="46" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="540.0" y="536.0" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Choose what to do</text>
+<line x1="540.0" y1="480.0" x2="540.0" y2="507.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<line x1="540.0" y1="553.0" x2="540.0" y2="586.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="540,586 564,610 540,634 516,610" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<line x1="564.0" y1="610.0" x2="993.0" y2="610.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="814.8" y="583.0" width="90.5" height="20" fill="#FFFFFF"/><text x="860.0" y="598.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[close app]</text>
+<circle cx="1010" cy="610" r="16" fill="#FFFFFF" stroke="#000000" stroke-width="2.2"/>
+<circle cx="1010" cy="610" r="9" fill="#000000"/>
+<rect x="30.0" y="717.0" width="180" height="46" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="120.0" y="746.0" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Show task list</text>
+<line x1="540.0" y1="634.0" x2="120.0" y2="717.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="166.0" y="679.0" width="98.0" height="20" fill="#FFFFFF"/><text x="215.0" y="694.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[view tasks]</text>
+<rect x="240.0" y="709.0" width="180" height="62" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="330.0" y="735.3" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Mark task</text><text x="330.0" y="756.6" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">done / not done</text>
+<line x1="540.0" y1="634.0" x2="330.0" y2="709.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="349.8" y="675.0" width="90.5" height="20" fill="#FFFFFF"/><text x="395.0" y="690.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[mark done]</text>
+<rect x="445.0" y="717.0" width="190" height="46" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="540.0" y="746.0" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Ask to confirm</text>
+<line x1="540.0" y1="634.0" x2="540.0" y2="717.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="546.0" y="659.0" width="68.0" height="20" fill="#FFFFFF"/><text x="580.0" y="674.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[delete]</text>
+<line x1="540.0" y1="634.0" x2="780.0" y2="685.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="641.0" y="639.0" width="98.0" height="20" fill="#FFFFFF"/><text x="690.0" y="654.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[add / edit]</text>
+<line x1="120.0" y1="763.0" x2="120.0" y2="803.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="120,803 142,825 120,847 98,825" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="30.0" y="884.0" width="180" height="62" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="120.0" y="910.3" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Apply search</text><text x="120.0" y="931.6" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">and filters</text>
+<line x1="120.0" y1="847.0" x2="120.0" y2="884.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="50.2" y="858.0" width="135.5" height="20" fill="#FFFFFF"/><text x="118.0" y="873.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[search / filter]</text>
+<line x1="120.0" y1="946.0" x2="120.0" y2="982.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="120,982 138,1000 120,1018 102,1000" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<polyline points="142.0,825.0 226.0,825.0 226.0,1000.0 138.0,1000.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<rect x="140.8" y="799.0" width="90.5" height="20" fill="#FFFFFF"/><text x="186.0" y="814.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[no filter]</text>
+<rect x="240.0" y="804.0" width="180" height="62" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="330.0" y="830.3" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Update weekly</text><text x="330.0" y="851.6" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">progress</text>
+<line x1="330.0" y1="771.0" x2="330.0" y2="804.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<line x1="540.0" y1="763.0" x2="540.0" y2="803.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="540,803 562,825 540,847 518,825" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="445.0" y="884.0" width="190" height="62" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="540.0" y="910.3" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Delete the task</text><text x="540.0" y="931.6" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">and its reminder</text>
+<line x1="540.0" y1="847.0" x2="540.0" y2="884.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="492.8" y="858.0" width="90.5" height="20" fill="#FFFFFF"/><text x="538.0" y="873.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[confirmed]</text>
+<line x1="540.0" y1="946.0" x2="540.0" y2="982.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="540,982 558,1000 540,1018 522,1000" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<polyline points="562.0,825.0 652.0,825.0 652.0,1000.0 558.0,1000.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<rect x="554.8" y="799.0" width="90.5" height="20" fill="#FFFFFF"/><text x="600.0" y="814.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[cancelled]</text>
+<polygon points="780,685 800,705 780,725 760,705" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="665.0" y="759.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="780.0" y="785.3" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Enter or change</text><text x="780.0" y="806.6" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">the task details</text>
+<line x1="780.0" y1="725.0" x2="780.0" y2="759.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="665.0" y="852.0" width="230" height="46" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="780.0" y="881.0" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Validate the details</text>
+<line x1="780.0" y1="821.0" x2="780.0" y2="852.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<line x1="780.0" y1="898.0" x2="780.0" y2="928.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="780,928 802,950 780,972 758,950" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="910.0" y="907.0" width="150" height="86" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="985.0" y="934.7" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Show a message</text><text x="985.0" y="956.0" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">under each</text><text x="985.0" y="977.2" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">invalid field</text>
+<line x1="802.0" y1="950.0" x2="910.0" y2="950.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="822.2" y="924.0" width="75.5" height="20" fill="#FFFFFF"/><text x="860.0" y="939.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[invalid]</text>
+<polyline points="985.0,907.0 985.0,705.0 800.0,705.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<rect x="665.0" y="1004.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="780.0" y="1030.3" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Save the task</text><text x="780.0" y="1051.6" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">on the phone</text>
+<line x1="780.0" y1="972.0" x2="780.0" y2="1004.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="787.8" y="979.0" width="60.5" height="20" fill="#FFFFFF"/><text x="818.0" y="994.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[valid]</text>
+<line x1="780.0" y1="1066.0" x2="780.0" y2="1098.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="780,1098 802,1120 780,1142 758,1120" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="665.0" y="1174.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="780.0" y="1200.3" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Schedule the</text><text x="780.0" y="1221.6" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">reminder notification</text>
+<line x1="780.0" y1="1142.0" x2="780.0" y2="1174.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="710.2" y="1153.0" width="135.5" height="20" fill="#FFFFFF"/><text x="778.0" y="1168.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[reminder chosen]</text>
+<line x1="780.0" y1="1236.0" x2="780.0" y2="1272.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="780,1272 798,1290 780,1308 762,1290" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<polyline points="802.0,1120.0 918.0,1120.0 918.0,1290.0 798.0,1290.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<rect x="815.2" y="1094.0" width="105.5" height="20" fill="#FFFFFF"/><text x="868.0" y="1109.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[no reminder]</text>
+<line x1="780.0" y1="1308.0" x2="780.0" y2="1343.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="780,1343 802,1365 780,1387 758,1365" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<rect x="665.0" y="1419.0" width="230" height="62" rx="20" fill="#EEF2FF" stroke="#000000" stroke-width="2"/><text x="780.0" y="1445.3" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Add the event to</text><text x="780.0" y="1466.6" font-size="17" font-weight="600" text-anchor="middle" fill="#000000">Google Calendar</text>
+<line x1="780.0" y1="1387.0" x2="780.0" y2="1419.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<rect x="706.5" y="1398.0" width="143.0" height="20" fill="#FFFFFF"/><text x="778.0" y="1413.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[export requested]</text>
+<line x1="780.0" y1="1481.0" x2="780.0" y2="1517.0" stroke="#000000" stroke-width="1.8" marker-end="url(#open)"/>
+<polygon points="780,1517 798,1535 780,1553 762,1535" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<polyline points="802.0,1365.0 918.0,1365.0 918.0,1535.0 798.0,1535.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<rect x="822.8" y="1339.0" width="90.5" height="20" fill="#FFFFFF"/><text x="868.0" y="1354.0" font-size="15" font-weight="normal" text-anchor="middle" fill="#000000" font-style="italic">[no export]</text>
+<polygon points="540,1575 560,1595 540,1615 520,1595" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<polyline points="120.0,1018.0 120.0,1555.0 528.0,1587.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<polyline points="330.0,866.0 330.0,1550.0 534.0,1581.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<polyline points="540.0,1018.0 540.0,1575.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<polyline points="780.0,1553.0 780.0,1555.0 552.0,1587.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<polyline points="540.0,1615.0 540.0,1645.0 22.0,1645.0 22.0,460.0 520.0,460.0" fill="none" stroke="#000000" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#open)"/>
+<text x="44.0" y="1420.0" font-size="14" font-weight="normal" text-anchor="start" fill="#000000" font-style="italic" transform="rotate(-90 44 1420)">back to the dashboard</text>
 </svg>
